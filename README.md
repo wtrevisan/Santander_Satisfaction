@@ -12,7 +12,7 @@ O Banco Santander está pedindo para ajudá-los a identificar clientes insatisfe
 
 Neste projeto de aprendizado de máquina, você trabalhará com centenas de recursos anônimos para prever se um cliente está satisfeito ou insatisfeito com sua experiência bancária.
 
-![satisfaction.png](Images\satisfaction.png)
+![satisfaction.png](Images/satisfaction.png)
 
 ## Goal:
 O objetivo deste projeto é criar um modelo de ***Machine Learning*** que seja capaz de prever o **`Nível de Satisfação dos Clientes do Santander`**.
