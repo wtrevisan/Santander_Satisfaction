@@ -20,7 +20,7 @@ O objetivo deste projeto é criar um modelo de ***Machine Learning*** que seja c
 Variável alvo (*target*) do nosso dataset: **`TARGET`**
 
 ## Avaliação:
-A métrica de avaliação que utilizaremos para este projeto é a **acurácia**, com um índice no **mínimo** de **90%**. Também desejamos que neste projeto a taxa de ***recall*** (revocação) seja no **mínimo** de **85%**.
+A métrica de avaliação que utilizaremos para este projeto é a **accuracy** (acurácia), com um índice no **mínimo** de **90%**. Também desejamos que neste projeto a taxa de ***recall*** (revocação) seja no **mínimo** de **85%**.
 
 ## Referências:
 
